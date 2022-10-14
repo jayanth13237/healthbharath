@@ -21,8 +21,9 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 
-![Screenshot (1)](https://user-images.githubusercontent.com/110240099/195879080-f2445362-364c-4c70-8dbd-c47972cd152b.png)
+ ![Screenshot (1)](https://user-images.githubusercontent.com/110240099/195887716-0fbd95b5-b2f8-46d7-813f-5152d0919c5c.png)
+
+
 
 
    
@@ -30,17 +31,16 @@ This is a web based application developed for health related telugu based websit
 ### post -
 
 
+![Screenshot (1)](https://user-images.githubusercontent.com/110240099/195887753-100de817-bd76-49ce-99d0-d400114a7797.png)
 
-![Screenshot (2)](https://user-images.githubusercontent.com/110240099/195881224-e8fdf7e3-2ea3-4b05-87af-037ee2f66376.png)
-![Screenshot (1)](https://user-images.githubusercontent.com/110240099/195881248-c0a6b3ee-3a88-4964-9701-30caacd7d33d.png)
-
+![Screenshot (2)](https://user-images.githubusercontent.com/110240099/195887775-f07a56a0-20a2-4345-9614-32559c256171.png)
 
 
 ### Privacy policy -
 
 
+![privacy policy ](https://user-images.githubusercontent.com/110240099/195887811-f210ce20-e7e1-4833-9160-0191563c8d9b.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/110240099/195880927-c38367bc-7f38-43bc-b0bf-5be1e89dfc8b.png)
 
 
 
